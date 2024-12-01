@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorBlue">#2b44ff</color>
+    <color name="h1black">#323542</color>
+    <color name="editTextBottomHint">#7c8ba2</color>
+    <color name="green">#4CAF50</color>
+
+
+    <color name="red">#d32f2f</color>
+    <color name="grey">#a9a9a9</color>
+
+    <color name="transparent">#00000000</color>
+</resources>
