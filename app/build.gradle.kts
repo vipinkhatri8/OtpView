@@ -1,6 +1,6 @@
 plugins {
-    alias(libs.plugins.android.application)
-   // id("com.android.library") version "8.5.1" // specify the exact version
+   // alias(libs.plugins.android.application)
+    id("com.android.library")  // specify the exact version
     alias(libs.plugins.jetbrains.kotlin.android)
 }
 
@@ -9,11 +9,11 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.vipin.otpview"
+        //applicationId = "com.vipin.otpview"
         minSdk = 24
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        //versionCode = 1
+        //versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
